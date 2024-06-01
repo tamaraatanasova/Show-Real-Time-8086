@@ -4,11 +4,11 @@
 Exercise of Low Level Programming with 8086 Assembly Lecture, implemented with Emu8086.
 In general, Emu8086 is easier to use, write code and test program. 
 
-![Screenshot (1)]()
-![Screenshot (2)]()
+![Screenshot (1)](https://github.com/tamaraatanasova/Show-Real-Time-8686/blob/main/1.1_image.png)
+![Screenshot (2)](https://github.com/tamaraatanasova/Show-Real-Time-8686/blob/main/1.2_image.png)
 
-![Screenshot (3)]()
-![Screenshot (4)]()
+![Screenshot (3)](https://github.com/tamaraatanasova/Show-Real-Time-8686/blob/main/2_image.png)
+![Screenshot (4)](https://github.com/tamaraatanasova/Show-Real-Time-8686/blob/main/3_image.png)
 
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
 
